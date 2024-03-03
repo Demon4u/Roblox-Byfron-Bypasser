@@ -17,6 +17,9 @@ This software's main purpose is NOT to be used maliciously, or on any system tha
 
 By using this software, you automatically agree to the above.
 
+# License
+This extension is released under the MIT License. See the LICENSE file for more information.
+
 # Donate
 
 XMR: 43V9x35YbQKPg6XNgPjNfi9NNLCqaCdb8RXZuHrnQo3KdnJGyjdXQGAZxEbm5VkG5oGn9JE95B5wJLHWDCxjKwH55ZKU6mZ
